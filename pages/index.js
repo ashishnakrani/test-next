@@ -1,7 +1,6 @@
 import DonutChart from 'react-donut-chart';
 import Head from 'next/head'
 import Image from 'next/image'
-import styles from '../styles/Home.module.css'
 import Avtar from '../public/account.png'
 import plush from '../public/plush.svg'
 import { Calendar, momentLocalizer } from 'react-big-calendar';
